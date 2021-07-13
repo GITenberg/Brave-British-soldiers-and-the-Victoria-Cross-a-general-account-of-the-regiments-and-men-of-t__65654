@@ -1,0 +1,31 @@
+_repo: Brave-British-soldiers-and-the-Victoria-Cross-a-general-account-of-the-regiments-and-men-of-t__65654
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Beeton, Samuel Orchart
+    birthdate: 1831
+    deathdate: 1877
+    gutenberg_agent_id: '53445'
+    url: http://www.gutenberg.org/2009/agents/53445
+    wikipedia: https://en.wikipedia.org/wiki/Samuel_Orchart_Beeton
+description: ''
+gutenberg_issued: '2021-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65654'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History, Military -- 19th century'
+- !lcc 'DA'
+- !lcsh 'Soldiers -- Great Britain -- Biography'
+- !lcsh 'Victoria Cross'
+- !lcsh 'Great Britain. Army -- Biography'
+- GITenberg
+title: 'Brave British soldiers and the Victoria Cross
+
+  a general account of the  regiments and men of the British Army, and stories of
+  the brave deeds  which won the prize "for valour"'
+url: http://www.gutenberg.org/ebooks/65654
